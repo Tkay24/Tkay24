@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tkay24
 - 👀 I’m interested in ...Fintech and Decentralised apps 
 - 🌱 I’m currently focusing on building Dapps in blockchain and web3 (real estate,hospitals,logistics,gaming,farming, nfts etc)
-- 📫contact:+27719059425
-- email: presleykabade@gmail.com
+- 📫contact:+27694640296
+- email: kabadepresley@gmail.com 
   
 
 <!---
